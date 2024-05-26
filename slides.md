@@ -41,7 +41,7 @@ Trata de evitar la repetición de cálculos resolviendo cada subproblema <span v
   <template #3>
       En esto:
       <div class="flex items-center justify-center w-full h-full">
-        <Tweet id="1640394252940369923" scale=1 />
+        <Tweet id="1640394252940369923" scale=0.9 />
       </div>
   </template>
 </v-switch>
