@@ -35,9 +35,11 @@ Trata de evitar la repetición de cálculos resolviendo cada subproblema <span v
 
 <v-switch>
   <template #2>
+      Vamos a tranformar esto:
       <img src="/dp_google.jpg" class="absolute top-40 w-120" /> 
   </template>
   <template #3>
+      En esto:
       <div class="flex items-center justify-center w-full h-full">
         <Tweet id="1640394252940369923" scale=1 />
       </div>
