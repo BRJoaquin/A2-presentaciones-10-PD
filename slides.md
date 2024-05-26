@@ -123,12 +123,12 @@ $$
 <v-switch>
   <template #1>
       <div class="flex justify-center">
-        <img src="fibo.png" class="w-100" />
+        <img src="/fibo.png" class="w-100" />
       </div>
   </template>
   <template #2>
       <div class="flex justify-center">
-        <img src="fibo_2.png" class="w-100" />
+        <img src="/fibo_2.png" class="w-100" />
       </div>
   </template>
 </v-switch>
