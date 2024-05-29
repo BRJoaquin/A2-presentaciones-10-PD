@@ -252,13 +252,13 @@ int fibo(int n) {
 ```
 ```cpp {*|2|3-4|5-7|8|*}
 int fibo(int n) {
-    int memo[n + 1];
-    memo[0] = 0;
-    memo[1] = 1;
+    int tab[n + 1];
+    tab[0] = 0;
+    tab[1] = 1;
     for (int i = 2; i <= n; i++) {
-        memo[i] = memo[i - 1] + memo[i - 2];
+        tab[i] = tab[i - 1] + tab[i - 2];
     }
-    return memo[n];
+    return tab[n];
 }
 ```
 ```cpp
