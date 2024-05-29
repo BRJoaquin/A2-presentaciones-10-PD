@@ -314,7 +314,15 @@ Secreto: Dejar de pensar como vamos a subir la escalera y pensar en cómo llegam
 # Problema: escaleras ponderadas
 Un problema más complejo
 
-Dada una escalera con `n` escalones, se puede subir de a 1, 2 o 3 escalones a la vez. Cada escalón tiene un peso asociado (siempre positivo). ¿Cuál es la suma de los pesos de la secuencia de escalones que minimiza el peso total?
+Dada una escalera con `n` escalones, se puede subir de a 1, 2 escalones a la vez. Cada escalón tiene un peso asociado (siempre positivo). ¿Cuál es la suma de los pesos de la secuencia de escalones que minimiza el peso total?
+
+
+<v-clicks>
+
+- ¿Cómo se relacionan los subproblemas?
+- ¿Cómo puedo saber el camino que recorrí?
+
+</v-clicks>
 
 --- 
 
